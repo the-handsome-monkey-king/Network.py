@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 """network_from_links.py
 
-This program will create a network from a series of links.
-
-The example in main() uses a rough outline of Canadian cities."""
+This program will create a network from a series of links."""
 
 __author__ = "Ryan Morehouse"
 __license__ = "MIT"
